@@ -1,2 +1,2 @@
 # SQLcommands
-SQL Classes&amp; Exercises
+Post SQL Classes and Exercises
