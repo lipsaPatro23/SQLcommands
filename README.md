@@ -1,2 +1,2 @@
 # SQLcommands
-Post SQL Classes and Exercises
+Postgrey SQL Classes and Exercises
